@@ -1,0 +1,10 @@
+.qweqwe {
+    font-size: 30px;
+    font-family: "Poppins", sans-serif;
+    font-weight: 600;
+}
+div {
+    width: 200px;
+    height: 200px;
+    background-color: red;
+}
